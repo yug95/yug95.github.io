@@ -6,14 +6,37 @@
     <description>Recent content on Yogesh Agrawal</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 14:19:35 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 12:30:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 23 Jun 2025 12:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;-hello-im-yogesh-agrawal&#34;&gt;👋 Hello, I&amp;rsquo;m Yogesh Agrawal&lt;/h2&gt;
+&lt;p&gt;I’m a &lt;strong&gt;Data Science professional&lt;/strong&gt; with over &lt;strong&gt;7+ years&lt;/strong&gt; of experience building solutions across predictive modeling, forecasting, and deep learning — and now deeply immersed in the evolving world of &lt;strong&gt;Generative AI&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-i-do&#34;&gt;💼 What I Do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;🔍 &lt;strong&gt;Data Science &amp;amp; ML&lt;/strong&gt;&lt;br&gt;
+Building robust machine learning models for forecasting, classification, NLP, and optimization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🧠 &lt;strong&gt;Deep Learning &amp;amp; TensorFlow/Keras&lt;/strong&gt;&lt;br&gt;
+Architected end-to-end deep learning solutions in domains like image, text, and time series.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agentic AI: The Future of Autonomous Intelligence</title>
       <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Fri, 27 Jun 2025 14:19:35 +0530</pubDate>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong&gt;autonomous agents&lt;/strong&gt; that can think, reason, and act on our behalf.&lt;/p&gt;
+&lt;p&gt;Welcome to the world of &lt;strong&gt;Agentic AI&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-agentic-ai&#34;&gt;🚀 What is Agentic AI?&lt;/h2&gt;
+&lt;p&gt;Agentic AI refers to &lt;strong&gt;AI systems that exhibit autonomous behavior&lt;/strong&gt;, capable of planning, reasoning, and interacting with other agents or tools to accomplish complex tasks — all with minimal human input.&lt;/p&gt;
+&lt;p&gt;Unlike traditional machine learning pipelines or even prompt-based LLMs, agentic systems:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
