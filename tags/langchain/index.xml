@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LangChain on Yogesh Agrawal</title>
-    <link>http://localhost:1313/tags/langchain/</link>
+    <link>https://yug95.github.io/tags/langchain/</link>
     <description>Recent content in LangChain on Yogesh Agrawal</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jun 2025 12:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yug95.github.io/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agentic AI: The Future of Autonomous Intelligence</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://yug95.github.io/posts/first-post/</link>
       <pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://yug95.github.io/posts/first-post/</guid>
       <description>&lt;p&gt;The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong&gt;autonomous agents&lt;/strong&gt; that can think, reason, and act on our behalf.&lt;/p&gt;
 &lt;p&gt;Welcome to the world of &lt;strong&gt;Agentic AI&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
