@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI on Yogesh Agrawal</title>
-    <link>https://yug95.github.io/tags/ai/</link>
-    <description>Recent content in AI on Yogesh Agrawal</description>
-    <generator>Hugo -- 0.147.9</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 12:00:00 +0530</lastBuildDate>
-    <atom:link href="https://yug95.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Agentic AI: The Future of Autonomous Intelligence</title>
-      <link>https://yug95.github.io/posts/first-post/</link>
-      <pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate>
-      <guid>https://yug95.github.io/posts/first-post/</guid>
-      <description>&lt;p&gt;The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong&gt;autonomous agents&lt;/strong&gt; that can think, reason, and act on our behalf.&lt;/p&gt;
-&lt;p&gt;Welcome to the world of &lt;strong&gt;Agentic AI&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-what-is-agentic-ai&#34;&gt;🚀 What is Agentic AI?&lt;/h2&gt;
-&lt;p&gt;Agentic AI refers to &lt;strong&gt;AI systems that exhibit autonomous behavior&lt;/strong&gt;, capable of planning, reasoning, and interacting with other agents or tools to accomplish complex tasks — all with minimal human input.&lt;/p&gt;
-&lt;p&gt;Unlike traditional machine learning pipelines or even prompt-based LLMs, agentic systems:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on Yogesh Agrawal</title><link>https://yug95.github.io/tags/ai/</link><description>Recent content in AI on Yogesh Agrawal</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 12:00:00 +0530</lastBuildDate><atom:link href="https://yug95.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Agentic AI: The Future of Autonomous Intelligence</title><link>https://yug95.github.io/posts/first-post/</link><pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate><guid>https://yug95.github.io/posts/first-post/</guid><description>&lt;p>PS: This post was automatically deployed using GitHub Actions 2!&lt;/p>
+&lt;p>The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong>autonomous agents&lt;/strong> that can think, reason, and act on our behalf.&lt;/p>
+&lt;p>Welcome to the world of &lt;strong>Agentic AI&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="-what-is-agentic-ai">🚀 What is Agentic AI?&lt;/h2>
+&lt;p>Agentic AI refers to &lt;strong>AI systems that exhibit autonomous behavior&lt;/strong>, capable of planning, reasoning, and interacting with other agents or tools to accomplish complex tasks — all with minimal human input.&lt;/p></description></item></channel></rss>

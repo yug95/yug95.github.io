@@ -1,42 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Yogesh Agrawal</title>
-    <link>https://yug95.github.io/</link>
-    <description>Recent content on Yogesh Agrawal</description>
-    <generator>Hugo -- 0.147.9</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 12:30:00 +0530</lastBuildDate>
-    <atom:link href="https://yug95.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://yug95.github.io/about/</link>
-      <pubDate>Mon, 23 Jun 2025 12:30:00 +0530</pubDate>
-      <guid>https://yug95.github.io/about/</guid>
-      <description>&lt;h2 id=&#34;-hello-im-yogesh-agrawal&#34;&gt;👋 Hello, I&amp;rsquo;m Yogesh Agrawal&lt;/h2&gt;
-&lt;p&gt;I’m a &lt;strong&gt;Data Science professional&lt;/strong&gt; with over &lt;strong&gt;7+ years&lt;/strong&gt; of experience building solutions across predictive modeling, forecasting, and deep learning — and now deeply immersed in the evolving world of &lt;strong&gt;Generative AI&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-what-i-do&#34;&gt;💼 What I Do&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;🔍 &lt;strong&gt;Data Science &amp;amp; ML&lt;/strong&gt;&lt;br&gt;
-Building robust machine learning models for forecasting, classification, NLP, and optimization.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🧠 &lt;strong&gt;Deep Learning &amp;amp; TensorFlow/Keras&lt;/strong&gt;&lt;br&gt;
-Architected end-to-end deep learning solutions in domains like image, text, and time series.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic AI: The Future of Autonomous Intelligence</title>
-      <link>https://yug95.github.io/posts/first-post/</link>
-      <pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate>
-      <guid>https://yug95.github.io/posts/first-post/</guid>
-      <description>&lt;p&gt;The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong&gt;autonomous agents&lt;/strong&gt; that can think, reason, and act on our behalf.&lt;/p&gt;
-&lt;p&gt;Welcome to the world of &lt;strong&gt;Agentic AI&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-what-is-agentic-ai&#34;&gt;🚀 What is Agentic AI?&lt;/h2&gt;
-&lt;p&gt;Agentic AI refers to &lt;strong&gt;AI systems that exhibit autonomous behavior&lt;/strong&gt;, capable of planning, reasoning, and interacting with other agents or tools to accomplish complex tasks — all with minimal human input.&lt;/p&gt;
-&lt;p&gt;Unlike traditional machine learning pipelines or even prompt-based LLMs, agentic systems:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Yogesh Agrawal</title><link>https://yug95.github.io/</link><description>Recent content on Yogesh Agrawal</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 12:30:00 +0530</lastBuildDate><atom:link href="https://yug95.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://yug95.github.io/about/</link><pubDate>Mon, 23 Jun 2025 12:30:00 +0530</pubDate><guid>https://yug95.github.io/about/</guid><description>&lt;h2 id="-hello-im-yogesh-agrawal">👋 Hello, I&amp;rsquo;m Yogesh Agrawal&lt;/h2>
+&lt;p>I’m a &lt;strong>Data Science professional&lt;/strong> with over &lt;strong>7+ years&lt;/strong> of experience building solutions across predictive modeling, forecasting, and deep learning — and now deeply immersed in the evolving world of &lt;strong>Generative AI&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="-what-i-do">💼 What I Do&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>🔍 &lt;strong>Data Science &amp;amp; ML&lt;/strong>&lt;br>
+Building robust machine learning models for forecasting, classification, NLP, and optimization.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🧠 &lt;strong>Deep Learning &amp;amp; TensorFlow/Keras&lt;/strong>&lt;br>
+Architected end-to-end deep learning solutions in domains like image, text, and time series.&lt;/p></description></item><item><title>Agentic AI: The Future of Autonomous Intelligence</title><link>https://yug95.github.io/posts/first-post/</link><pubDate>Mon, 23 Jun 2025 12:00:00 +0530</pubDate><guid>https://yug95.github.io/posts/first-post/</guid><description>&lt;p>PS: This post was automatically deployed using GitHub Actions 2!&lt;/p>
+&lt;p>The future of artificial intelligence is not just about large language models — it&amp;rsquo;s about &lt;strong>autonomous agents&lt;/strong> that can think, reason, and act on our behalf.&lt;/p>
+&lt;p>Welcome to the world of &lt;strong>Agentic AI&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="-what-is-agentic-ai">🚀 What is Agentic AI?&lt;/h2>
+&lt;p>Agentic AI refers to &lt;strong>AI systems that exhibit autonomous behavior&lt;/strong>, capable of planning, reasoning, and interacting with other agents or tools to accomplish complex tasks — all with minimal human input.&lt;/p></description></item></channel></rss>
